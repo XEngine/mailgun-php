@@ -1,5 +1,5 @@
 {
-    "name": "mailgun/mailgun-php",
+    "name": "xengine/mailgun-php",
     "description": "The Mailgun SDK provides methods for all API functions.",
     "require": {
         
