@@ -1,13 +1,7 @@
 {
     "name": "xengine/mailgun-php",
     "description": "The Mailgun SDK provides methods for all API functions.",
-    "require": {
-        
-    },
-    "require-dev": {
-        "php": ">=5.4.0",
-        "phpunit/phpunit": "~4.6"
-    },
+
     "autoload": {
         "psr-0": {
             "Mailgun\\Tests": "tests/",
@@ -21,5 +15,5 @@
             "email": "travis@mailgunhq.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
